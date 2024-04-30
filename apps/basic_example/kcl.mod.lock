@@ -1,0 +1,16 @@
+[dependencies]
+  [dependencies.config]
+    name = "config"
+    full_name = "config_"
+    sum = "Er/CCzVIUj1OXmUDnTQvKyztjjIyvx7k23nm2Kq05K4="
+    path = "../../modules/config"
+  [dependencies.data]
+    name = "data"
+    full_name = "data_"
+    sum = "Ij3EH5P+oRS59KkQYp42pekPECZXqRx2OoXaYE1s/DQ="
+    path = "../../modules/data"
+  [dependencies.service]
+    name = "service"
+    full_name = "service_"
+    sum = "I1nNcYhd3YR3ukIBBVBCS1W78OCxpLFVD7mfzMgmL+E="
+    path = "../../modules/service"
