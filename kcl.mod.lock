@@ -2,20 +2,25 @@
   [dependencies.basic_example]
     name = "basic_example"
     full_name = "basic_example_"
-    sum = "z2gCT+2K7VJFXTlvP999dWxM8H5wqUXRetrZbVsKmWY="
+    sum = "ZQVpjDJDD+SchlobVQLTHifmhPLMVpLt8FiC6ZfZXW4="
     path = "apps/basic_example"
+  [dependencies.composition]
+    name = "composition"
+    full_name = "composition_"
+    sum = "Kx+pMCdczpA5PtfhkynkFM3EMnabYJDQM8flPE4nuxc="
+    path = "modules/composition"
   [dependencies.config]
     name = "config"
     full_name = "config_"
-    sum = "2F6I+8uNq05wtHacgROD57SRWFoFoYnpWk/WzhqlNYg="
+    sum = "T/4OMhxoaXJJ6+wuQ3Mg+ZzG7Zq442GeEX+p/l3Z6as="
     path = "modules/config"
   [dependencies.data]
     name = "data"
     full_name = "data_"
-    sum = "q4Vu8twNUkIoeRUJTZXTaf/1ECLn4vOp71goxboiVOU="
+    sum = "d/mxvtQE8dXWc0y8Slg+On7Dne/1nfRU73z0bhPDRGI="
     path = "modules/data"
   [dependencies.service]
     name = "service"
     full_name = "service_"
-    sum = "PqwoSV8AXhpZZOW+hO02P26zhwUgaXnKGbMGSa2aJsI="
+    sum = "4InZXeHzsOUJqwhnbEWlgP5s85tXv3vHEQYsSYIhdzg="
     path = "modules/service"
