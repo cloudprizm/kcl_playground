@@ -7,7 +7,7 @@
   [dependencies.composition]
     name = "composition"
     full_name = "composition_"
-    sum = "Kx+pMCdczpA5PtfhkynkFM3EMnabYJDQM8flPE4nuxc="
+    sum = "DLmxQ8h/j4IQGfYuiKIPNroDxI6WfxY9m0pAUmdB6hk="
     path = "modules/composition"
   [dependencies.config]
     name = "config"
@@ -22,5 +22,5 @@
   [dependencies.service]
     name = "service"
     full_name = "service_"
-    sum = "4InZXeHzsOUJqwhnbEWlgP5s85tXv3vHEQYsSYIhdzg="
+    sum = "/zDKiZPxZADE16TyJFUyo0FbO6X6+zPTiIUqH698NkQ="
     path = "modules/service"

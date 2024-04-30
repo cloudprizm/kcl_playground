@@ -4,12 +4,15 @@ import composition
 value = basic_example.value
 
 schema MyResource(composition.Resource):
-    labels = {}
-    my_label: str = name
+    name_ref: str = name
 
 myResource = MyResource {
     name: "test"
     serviceA: {
         someValue: True
     }
+}
+
+myResourceWithoutServiceDefinition = MyResource {
+    name: "test"
 }
